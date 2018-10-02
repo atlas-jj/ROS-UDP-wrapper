@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>udp_ros_wrapper</name>
+  <name>ros_udp_wrapper</name>
   <version>0.0.0</version>
   <description>A general robot ROS wrapper using UDP communication. </description>
   <maintainer email="jjin5@ualberta.ca">junjin</maintainer>
