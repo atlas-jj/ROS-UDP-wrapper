@@ -13,7 +13,7 @@ This repository contains example of:
 + It should support task status feedback during execution
   + since some tasks may take a super long time by robtot side
   + while some tasks may need to get real-time feedback and adjust parameters continously.
-+ It should prevent** Zombie Connections.**
++ It should prevent **Zombie Connections.**
 + It should use UDP other than TCP, but remove the **UDP datagram size limit.**
 + So I decide to design my own wrapper.
 
